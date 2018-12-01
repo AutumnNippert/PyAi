@@ -1,0 +1,5 @@
+Hello.
+Goodbye.
+Hi.
+Bye.
+Hi, how are you?
