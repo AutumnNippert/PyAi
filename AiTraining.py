@@ -19,3 +19,12 @@ while(1):
     if(correct == "y"):
         with open("corrections.txt", "a") as myfile:
             myfile.write(word+"="+random_phrase+"\n")
+
+
+#
+# myDict = {
+# "input": "Output",
+# "input2"}
+#
+#
+#
