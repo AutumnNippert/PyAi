@@ -10,3 +10,5 @@ while(1):
                 random_phrase = random.choice(words)
                 print (random_phrase)
     input ("Press [ENTER] to restart...")
+
+    # I made a change
